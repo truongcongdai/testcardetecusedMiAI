@@ -1,5 +1,7 @@
-tensorflow
-tensorflow_io
+tensorflow == 2.7
+tensorflow_io == 0.23.1
+keras == 2.7.0
+tf-models-offical == 2.7.0
 tensorflow_addons
 pillow
 lxml
